@@ -2,4 +2,13 @@ body {
 	background-image: url("haikei.png");
 	background-size: cover;
 	background-attachment: fixed;
+	font-family: a-otf-futo-min-a101-pr6n,serif;
+font-weight: 400;
+font-style: normal;
+}
+#title{
+font-family: a-otf-midashi-mi-ma31-pr6n, serif;
+font-weight: 600;
+font-style: normal;
+font-size: xx-large;
 }
